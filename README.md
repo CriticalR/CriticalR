@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Vuejs**
 
-- 💬 Ask me about **My Script, Assistance or anything [here](https://github.com/criticalr/criticalr/issues)**
+- 💬 Ask me about **My Script, Assistance or anything [here](https://discord.gg/2QgKq68gDP)**
 
 - 👨‍💻 All of my projects are available at ***currently in build***
 
